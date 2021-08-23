@@ -1,4 +1,4 @@
-baseurl         = "https://novartensemble.com"
+baseurl         = ""
 theme           = "casper-two-ls"
 languageCode    = "en-US"
 disqusShortname = ""
