@@ -1,10 +1,10 @@
-baseurl         = ""
+baseurl         = "https://novartensemble.com"
 theme           = "casper-two-ls"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
-
+canonifyurls  = true
 
 [params]
   title       = "Collectif Novart"
