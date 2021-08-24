@@ -4,6 +4,7 @@ date: 2021-08-13
 linktitle: "Leonardo"
 title: "Leonardo"
 categories: ["membre", "author", "executif"]
+image: "img/collectifnovart-34.jpg"
 draft: false
 ---
 

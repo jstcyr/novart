@@ -4,6 +4,7 @@ date: 2021-08-13
 linktitle: "Isabelle Bouchard"
 title: "Isabelle Bouchard"
 categories: ["membre"]
+image: "img/collectifnovart-44.jpg"
 ---
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?

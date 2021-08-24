@@ -3,6 +3,7 @@ author: "Rosabelle Slevan"
 date: 2021-08-13
 linktitle: "Marilou Lepage"
 title: "Marilou Lepage"
+image: "img/logo2_square.png"
 categories: ["membre"]
 ---
 

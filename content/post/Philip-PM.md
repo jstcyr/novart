@@ -3,6 +3,7 @@ author: "Rosabelle Slevan"
 date: 2021-08-13"
 linktitle: "Philip Pinard-Macmaniman"
 title: "Philip Pinard-Mcmaniman"
+image: "img/collectifnovart-33.jpg"
 categories: ["membre", "executif"]
 ---
 

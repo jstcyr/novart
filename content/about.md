@@ -6,6 +6,7 @@ share = false
 title = "À propos de nous"
 author = "Les membres de l'Exécutif de l’ensemble de musique Novart S.E.N.C."
 type = "page"
+image = "img/collectifnovart-5.jpg"
 [menu.main]
 weight = 111
 

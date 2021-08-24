@@ -3,6 +3,7 @@ author: "Rosabelle Slevan"
 date: 2021-08-13
 linktitle: "Luka Marcoux"
 title: "Luka Marcoux"
+image: "img/collectifnovart-9.jpg"
 categories: ["membre"]
 ---
 
