@@ -7,6 +7,7 @@ weight: 10
 authorAvatar: "img/leonardo.jpg"
 draft: false
 categories: ["documents"]
+image: "img/collectifnovart-14.jpg"
 ---
 
 STATUTS ET RÈGLEMENTS DE

@@ -7,6 +7,7 @@ weight: 10
 authorAvatar: "img/leonardo.jpg"
 draft: false
 categories: ["concert"]
+image: "img/collectifnovart-48.jpg"
 ---
 # Quelques photos
 

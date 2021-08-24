@@ -8,6 +8,12 @@ image: "img/collectifnovart-34.jpg"
 draft: false
 ---
 
+Plateforme |  URL
+---|---
+Facebook | facebook.com/leonardsauve95 
+Instagram | instagram.com/nardosarraz 
+Gmail | leonardsauve@gmail.com
+
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
  À l’heure actuelle, j’occupe deux postes dans l’exécutif de l’ensemble en tant que responsable de la production et trésorier de l’association. Je suis également contrebassiste et gambiste, donc j’opère autant sur le front administratif que derrière les partitions!  
 
@@ -21,9 +27,5 @@ Mon parcours m’a amené à connaître une double vie, à la fois scientifique 
 Je pense qu’en tant que jeune étudiant, la musique faisait simplement partie de ma vie, mais je ne la percevais pas nécessairement comme une passion. Lorsque j’ai fini mes études au conservatoire en 2016, je suis parti en France à Lyon puis Toulouse pour compléter des sessions universitaires à l’étranger. C’est à ce moment que j’ai ressenti le réel besoin de continuer à jouer et que ma relation à la musique allait durer pour toujours, où que je sois. Ça m’a pris quelques mois avant de trouver un instrument là-bas - j’étais contrebassiste à l’époque - et c’est une fois la résolution prise que j’ai alors décidé de continuer à parfaire mon parcours instrumental à la contrebasse au conservatoire de Villeurbanne et dans des orchestres symphoniques et de chambre. J’ai ensuite commencé à m'intéresser au répertoire Jazz, Manouche, Tango et vers la chanson. Comme quoi on réalise que quelque chose est important pour soi seulement lorsqu’on en est séparé.
 
 
-Plateforme | pseudo | URL
----|---|---
-Facebook | leonardsauve95 | facebook.com/
-Instagram |  nardosarraz | instagram.com/~ 
-Gmail | leonardsauve | ~@gmail.com
+
 
