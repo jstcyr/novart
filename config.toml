@@ -38,8 +38,11 @@ canonifyurls  = true
   authorDescription = "Coder, Developer"
 
   pageNotFoundTitle = "404 - Page not found"
- 
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  
 [permalinks]
   post = "/post/:slug/"
 
@@ -47,6 +50,12 @@ canonifyurls  = true
   name = "Accueil"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "Programmation 2021"
+  url = "/categories/projet_2021"
+  weight = 199
+
 
 [[menu.main]]
   name = "Membres"
@@ -69,3 +78,7 @@ canonifyurls  = true
   url = "/categories/documents/"
   weight = 97
 
+[[menu.main]]
+  name = "Categories"
+  url = "/Categories"
+  weight = 96
