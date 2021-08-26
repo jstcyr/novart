@@ -3,7 +3,7 @@ author: "Rosabelle Slevan"
 date: 2021-08-13
 linktitle: "Leonardo"
 title: "Leonardo"
-categories: ["membre", "author", "executif"]
+categories: ["membre", "author"]
 image: "img/collectifnovart-34.jpg"
 draft: false
 ---
