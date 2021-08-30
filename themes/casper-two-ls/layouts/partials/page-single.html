@@ -9,7 +9,7 @@
     </a>    
     {{end}}
 
-    <div class="post-card-content">
+    <div class="post-card-content" style="font-family: Avenir;">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
               {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
@@ -18,7 +18,7 @@
               <h2 class="post-card-title">{{.Title}}</h2>
           </header>
       </a>
-      <section class="post-card-excerpt" style="padding: 0 25px;">
+      <section class="post-card-excerpt" style="font-family: Avenir;padding: 0 25px;">
           {{ .Content }}
       </section>
 
