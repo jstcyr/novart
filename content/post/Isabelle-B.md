@@ -1,6 +1,5 @@
 ---
-author: "Rosabelle Slevan"
-date: 2021-08-13
+author: "none"
 linktitle: "Isabelle Bouchard"
 title: "Isabelle Bouchard"
 categories: ["membre"]

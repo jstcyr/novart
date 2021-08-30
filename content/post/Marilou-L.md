@@ -1,6 +1,5 @@
 ---
-author: "Rosabelle Slevan"
-date: 2021-08-13
+author: "none"
 linktitle: "Marilou Lepage"
 title: "Marilou Lepage"
 image: "img/logo2_square.png"

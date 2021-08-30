@@ -1,6 +1,5 @@
 ---
-author: "Rosabelle Slevan"
-date: 2021-08-13
+author: "none"
 linktitle: "Lorraine Gauthier-Giroux"
 title: "Lorraine Gauthier-Giroux"
 image: "img/collectifnovart-21.jpg"

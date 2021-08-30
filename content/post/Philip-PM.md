@@ -1,6 +1,5 @@
 ---
-author: "Rosabelle Slevan"
-date: 2021-08-13"
+author: "none"
 linktitle: "Philip Pinard-Macmaniman"
 title: "Philip Pinard-Mcmaniman"
 image: "img/collectifnovart-33.jpg"
@@ -21,7 +20,7 @@ categories: ["membre", "executif"]
 « Je crois que la musique s’exprime différemment envers chacun. Pour ma part, je crois que c’est le discours de la musique qui m’interpelle et me fascine. Nous avons l’extraordinaire capacité de donner du sens à de l’information abstraite venant de tout autour de nous ; c’est le principe même d’un langage. Et pourtant, certains d’entre nous arrivent à maîtriser l’art du discours à un point tel qu’ils émeuvent leurs interlocuteurs. Je crois que c’est cette verve comparable à ce que l’on retrouve dans le discours musical de certains artistes musicaux qui me captive et m’éblouit de la même façon que l’on peut être fasciné par certaines compositions visuelles ou par la beauté abstraite d’une preuve d’un certain théorème. »
 
 Plateforme | pseudo | URL
----|---
+---|---|---
 Facebook | NA | facebook.com/
 Instagram |  NA | instagram.com/~ 
 Gmail | NA | ~@gmail.com

@@ -1,6 +1,5 @@
 ---
-author: "Rosabelle Slevan"
-date: 2021-08-13
+author: "none"
 linktitle: "Luka Marcoux"
 title: "Luka Marcoux"
 image: "img/collectifnovart-9.jpg"
