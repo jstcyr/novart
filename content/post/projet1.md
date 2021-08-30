@@ -8,11 +8,13 @@ description: "Musique en solo de J.S. Bach , Campagnoli et en duo de Nebdal et H
 categories: ["projet_2021", "concert"]
 image: "img/project1.jpg"
 ---
-Musique en solo de J.S. Bach, Corigliano et Campagnoli par Sebastian Ginzalez Mora  à l'alto et de Chloé Dumoulin au piano. Retrouvez-les ensuite en duo pour des oeuvres de Nebdal, Scriabin et Hindemith dans la magnifique [Église Saint-Enfant-Jésus du Mile-End](https://www.diocesemontreal.org/fr/vie-communautaire/eglises-paroisses/saint-enfant-jesus-montreal).
+Musique en solo de J.S. Bach et Campagnoli par Sebastian Gonzalez Mora  à l'alto et de Corigliano, Scriabin et Bach-Rachmaninov par Chloé Dumoulin au piano. Retrouvez-les ensuite en duo pour des oeuvres de Nebdal, Scriabin et Hindemith dans la magnifique [Église Saint-Enfant-Jésus du Mile-End](https://www.diocesemontreal.org/fr/vie-communautaire/eglises-paroisses/saint-enfant-jesus-montreal).
 
 
 ## Endroit
 [Église Saint-Enfant-Jésus du Mile-End](https://www.diocesemontreal.org/fr/vie-communautaire/eglises-paroisses/saint-enfant-jesus-montreal). 5039 Rue Saint-Dominique, Montréal, QC H2T 1V1
+
+## Heure de début: 16h00
 
 # Programme 
 
