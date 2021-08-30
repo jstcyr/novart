@@ -11,7 +11,7 @@
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
   	{{if ne .Site.Params.singleViewStyle "casper"}}
-    <div class="post-feed">
+    <div class="post-feed" style="font-family: Avenir;">
       {{ partial "page-single" . }}
     </div>
     {{else}}
