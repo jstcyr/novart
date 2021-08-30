@@ -1,8 +1,8 @@
 ---
 author: "Leonardo"
 date: 2020-09-11
-linktitle: recital-11-09-2021
-title: recital-11-09-2021
+linktitle: recital<11-09-2021>
+title: recital</11-09-2021/>
 draft: false
 description: "Musique en solo de J.S. Bach , Campagnoli et en duo de Nebdal et Hindemith. Dans la magnifique Église Saint-Enfant-Jésus du Mile-End. "
 categories: ["projet_2021", "concert"]
@@ -16,7 +16,7 @@ Musique en solo de J.S. Bach et Campagnoli par Sebastian Gonzalez Mora  à l'alt
 
 ## Heure de début: 16h00
 
-# Programme 
+## Programme 
 
 **J.S. Bach: Suite pour violoncelle no 5 en do mineur, BWV 1011 (1724)**
 * Prélude 
