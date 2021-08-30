@@ -2,7 +2,7 @@
 date: 2021-08-13
 linktitle: "Sebastian Gonzalez-Mora"
 title: "Sebastian Gonzalez-Mora"
-image: "img/logo2_square.png"
+image: "img/ANTOINEDUGUAY-24.jpg"
 categories: ["membre"]
 ---
 
