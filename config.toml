@@ -7,7 +7,7 @@ paginate        = 6
 canonifyurls  = true
 
 [params]
-  title       = "</Collectif_Novart/>"
+  title       = "<Collectif_Novart>"
   subtitle    = "Ensemble de Musique"
   copyright   = "© 2021"
 

@@ -2,13 +2,13 @@
 author: "Leonardo"
 date: 2020-09-11
 linktitle: recital<11-09-2021>
-title: recital</11-09-2021/>
+title: recital<11-09-2021>
 draft: false
 description: "Musique en solo de J.S. Bach , Campagnoli et en duo de Nebdal et Hindemith. Dans la magnifique Église Saint-Enfant-Jésus du Mile-End. "
 categories: ["projet_2021", "concert"]
 image: "img/project1.jpg"
 ---
-Musique en solo de J.S. Bach et Campagnoli par [Sebastian Gonzalez Mora](https://novartensemble.com/post/sebastian-gonzalez-mora)  à l'alto et de Corigliano, Scriabin et Bach-Rachmaninov par Chloé Dumoulin au piano. Retrouvez-les ensuite en duo pour des oeuvres de Nebdal, Scriabin et Hindemith dans la magnifique [Église Saint-Enfant-Jésus du Mile-End](https://www.diocesemontreal.org/fr/vie-communautaire/eglises-paroisses/saint-enfant-jesus-montreal).
+Musique en solo de J.S. Bach et Campagnoli par [Sebastian Gonzalez Mora](https://novartensemble.com/post/sebastian-gonzalez-mora)  à l'alto et de Corigliano, Scriabin et Bach-Rachmaninov par Chloé Dumoulin au piano. Retrouvez-les ensuite en duo pour des oeuvres de Nebdal et Hindemith dans la magnifique [Église Saint-Enfant-Jésus du Mile-End](https://www.diocesemontreal.org/fr/vie-communautaire/eglises-paroisses/saint-enfant-jesus-montreal).
 
 
 ## Endroit
