@@ -4,6 +4,10 @@ linktitle: "Marilou Lepage"
 title: "Marilou Lepage"
 image: "img/logo2_square.png"
 categories: ["membre"]
+fbLink: ""
+igLink: ""
+twitterLink: ""
+email: ""
 ---
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
@@ -18,11 +22,3 @@ Et la pandémie m’a donné le temps d’approfondir un intérêt que j’avais
 
 ## 𝗣𝗼𝘂𝗿𝗾𝘂𝗼𝗶 𝗹𝗮 𝗺𝘂𝘀𝗶𝗾𝘂𝗲 𝘁𝗲 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗻𝗲-𝘁-𝗲𝗹𝗹𝗲 𝗮𝘂𝘁𝗮𝗻𝘁 ?
 « J’ai toujours trouvé que la musique est un art qui rassemble. Chaque fois que je me rends à un concert, de voir que tous ces gens dans le public sont à la même place au même moment pour vivre une expérience commune, je trouve ça beau. Aussi, perpétuer une tradition vieille de plusieurs centaines d’années tout en voulant contribuer à la musique de demain, c’est hyper motivant. Je trouve que c’est un art complet. »
-
-### Plateformes Personnelles
-
-Plateforme | pseudo | URL
----|---|---
-Facebook | mariloulepageviola | facebook.com/
-Instagram |  mariloulepageviola | instagram.com/~ 
-Gmail | NA | ~@gmail.com

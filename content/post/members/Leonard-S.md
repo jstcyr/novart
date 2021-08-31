@@ -4,14 +4,11 @@ linktitle: "Leonardo"
 title: "Leonardo"
 categories: ["membre", "author"]
 image: "img/collectifnovart-34.jpg"
-draft: false
+fbLink: "http://facebook.com/leonardsauve95"
+igLink: "http://instagram.com/nardosarraz"
+twitterLink: ""
+email: "leonardsauve@gmail.com"
 ---
-
-Plateforme |  URL
----|---
-Facebook | facebook.com/leonardsauve95 
-Instagram | instagram.com/nardosarraz 
-Gmail | leonardsauve@gmail.com
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
  À l’heure actuelle, j’occupe deux postes dans l’exécutif de l’ensemble en tant que responsable de la production et trésorier de l’association. Je suis également contrebassiste et gambiste, donc j’opère autant sur le front administratif que derrière les partitions!  

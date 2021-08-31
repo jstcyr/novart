@@ -4,6 +4,10 @@ linktitle: "Isabelle Bouchard"
 title: "Isabelle Bouchard"
 categories: ["membre"]
 image: "img/collectifnovart-44.jpg"
+fbLink: ""
+igLink: ""
+twitterLink: ""
+email: ""
 ---
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
@@ -20,10 +24,3 @@ image: "img/collectifnovart-44.jpg"
 
 ## 𝗥𝗮𝗰𝗼𝗻𝘁𝗲-𝗻𝗼𝘂𝘀 𝘂𝗻 𝗺𝗼𝗺𝗲𝗻𝘁 𝗺𝗮𝗿𝗾𝘂𝗮𝗻𝘁 𝗱𝗲 𝘁𝗮 𝘃𝗶𝗲 𝗺𝘂𝘀𝗶𝗰𝗮𝗹𝗲 : 
 « Comme je l’ai dit plus haut, ce qui me fait vibrer, c’est de partager des moments entre musiciens sur scène, de faire partie d’un tout et de participer à la réalisation d’une grande œuvre. Ce qui me coupe le souffle et me donne des frissons, c’est quand les musiciens sont connectés dans un concert, comme s’ils ne faisaient qu’un. Je me souviendrai toujours d’un concert d’orchestre où nous jouions une œuvre contemporaine très complexe. À un certain moment, le chef s’est trompé… Catastrophe ! Ça allait être le “bordel” dans quelques secondes… Le chef a coupé l’orchestre, puis, au premier temps suivant, nous sommes tous retombés sur la mesure qui suivait. Cette fraction de seconde était tout simplement magique ! J’ai senti la concentration des 80 musiciens s’unir en une fraction de seconde pour parvenir à se retrouver au même endroit, sans dire un seul mot. »
-
-
-Plateforme | pseudo | URL
----|---|---
-Facebook | NA | facebook.com/
-Instagram |  NA | instagram.com/~ 
-Gmail | NA | ~@gmail.com

@@ -4,6 +4,10 @@ linktitle: "Luka Marcoux"
 title: "Luka Marcoux"
 image: "img/collectifnovart-9.jpg"
 categories: ["membre"]
+fbLink: ""
+igLink: ""
+twitterLink: ""
+email: ""
 ---
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
@@ -14,10 +18,3 @@ categories: ["membre"]
 « Je sais jongler, je bégaye et je fais une méchante tarte au citron. :) »
 ## 𝗣𝗼𝘂𝗿𝗾𝘂𝗼𝗶 𝗹𝗮 𝗺𝘂𝘀𝗶𝗾𝘂𝗲 𝘁𝗲 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗻𝗲-𝘁-𝗲𝗹𝗹𝗲 𝗮𝘂𝘁𝗮𝗻𝘁 ?
 « La musique me passionne par sa capacité à faire ressentir des émotions intenses et profondes, sans toujours savoir pourquoi, par sa façon de rassembler les gens, et parce qu'elle m'a permis de rencontrer des amis et collègues vraiment incroyables. »
-
-
-Plateforme | pseudo | URL
----|---|---
-Facebook | NA | facebook.com/
-Instagram |  NA | instagram.com/~ 
-Gmail | NA | ~@gmail.com

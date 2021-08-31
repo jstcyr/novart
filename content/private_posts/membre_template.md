@@ -3,6 +3,10 @@ author: "none"
 linktitle: "MEMBRE"
 title: "MEMBRE"
 categories: ["membre"]
+fbLink: ""
+igLink: ""
+twitterLink: ""
+email: ""
 draft: true
 ---
 
@@ -13,11 +17,3 @@ draft: true
 ## 𝗤𝘂𝗲𝗹 𝘀𝗲𝗿𝗮𝗶𝘁 𝘂𝗻 𝗳𝗮𝗶𝘁 𝗮̀ 𝗹𝗮 𝗳𝗼𝗶𝘀 𝗶𝗻𝘁𝗲́𝗿𝗲𝘀𝘀𝗮𝗻𝘁 𝗲𝘁 𝗶𝗻𝗮𝘁𝘁𝗲𝗻𝗱𝘂 𝗮̀ 𝘁𝗼𝗻 𝘀𝘂𝗷𝗲𝘁 ? 
 
 ## 𝗣𝗼𝘂𝗿𝗾𝘂𝗼𝗶 𝗹𝗮 𝗺𝘂𝘀𝗶𝗾𝘂𝗲 𝘁𝗲 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗻𝗲-𝘁-𝗲𝗹𝗹𝗲 𝗮𝘂𝘁𝗮𝗻𝘁 ?
-
-### Plateformes Personnelles
-
-Plateforme | pseudo | URL
----|---|---
-Facebook | NA | facebook.com/
-Instagram |  NA | instagram.com/~ 
-Gmail | NA | ~@gmail.com

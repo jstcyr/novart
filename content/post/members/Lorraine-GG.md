@@ -4,6 +4,10 @@ linktitle: "Lorraine Gauthier-Giroux"
 title: "Lorraine Gauthier-Giroux"
 image: "img/collectifnovart-21.jpg"
 categories: ["membre"]
+fbLink: ""
+igLink: ""
+twitterLink: ""
+email: ""
 ---
 
 ## 𝗤𝘂𝗲𝗹 𝗲𝘀𝘁 𝘁𝗼𝗻 𝗿𝗼̂𝗹𝗲 𝗮𝘂 𝘀𝗲𝗶𝗻 𝗱𝘂 𝗰𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗳 ?
@@ -17,10 +21,3 @@ categories: ["membre"]
 
 ## 𝗣𝗼𝘂𝗿𝗾𝘂𝗼𝗶 𝗹𝗮 𝗺𝘂𝘀𝗶𝗾𝘂𝗲 𝘁𝗲 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗻𝗲-𝘁-𝗲𝗹𝗹𝗲 𝗮𝘂𝘁𝗮𝗻𝘁 ?
 « La musique nous permet de créer un moment unique et de partager le temps dans une espèce de bulle qui nous est propre, peu importe le contexte dans lequel on la joue ou on l’écoute. Elle nous offre aussi une opportunité exceptionnelle de communiquer et de nous retrouver tous dans une expérience commune. Le métier de musicien.e en est aussi un où on cherche à se dépasser constamment, à apprendre constamment et à se développer en tant qu’humain et artiste un peu plus à chaque jour. »
-
-
-Plateforme | pseudo | URL
----|---|---
-Facebook | NA | facebook.com/
-Instagram |  NA | instagram.com/~ 
-Gmail | NA | ~@gmail.com
