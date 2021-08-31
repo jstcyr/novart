@@ -1,11 +1,10 @@
 {{ if ne .Params.author "none" }}
-
     {{ $author := index .Site.Data.authors (.Params.author | default .Site.Params.author ) }}
 
     {{ if $author }}
-        <footer class="post-card-meta">
+        <div>
             <img class="author-profile-image" src="{{ $author.avatar }}" alt="Author" />
             <span class="post-card-author"><a href="{{ $author.link }}">{{ $author.name }}</a></span>
-        </footer>
+        </div>
     {{ end }}
 {{ end }}

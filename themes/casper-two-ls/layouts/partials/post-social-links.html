@@ -1,0 +1,17 @@
+<div>
+{{ with .Params.fbLink }}
+    <a href="{{.}}" target="_blank"><img src="/img/socials/Facebook-Logo.wine.svg" width="32" height="32"/></a>
+{{ end }}
+
+{{ with .Params.igLink }}
+    <a href="{{.}}" target="_blank"><img src="/img/socials/Instagram-Logo.wine.svg" width="32" height="32"/></a>
+{{ end }}
+
+{{ with .Params.twitterLink }}
+    <a href="{{.}}" target="_blank"><img src="/img/socials/Twitter-Logo.wine.svg" width="32" height="32"/></a>
+{{ end }}
+
+{{ with .Params.email }}
+    <a href="mailto:{{.}}" target="_blank"><img src="/img/socials/Gmail-Logo.wine.svg" width="32" height="32"/></a>
+{{ end }}
+</div>
